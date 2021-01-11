@@ -14,5 +14,3 @@ An open-sourced Mobile application to track the COVID-19 cases made using Flutte
   - Added Dark mode 
   - Realtime search based on country name
 
-# Coming soon:
-  - Data to be shown in the form of pie chart
